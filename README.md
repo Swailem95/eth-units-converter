@@ -1,2 +1,6 @@
-# eth-units-converter
-A simple website to convert Ether units
+# Ether Units Converter
+
+
+
+
+A simple website that converts between different Ether units for quick calculations.
